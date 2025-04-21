@@ -16,12 +16,6 @@ section.hero{
         max-width: 40rem;
     }
 
-
-    & > div:nth-child(1){
-        /* background-color: blue; */
-        /* width: 50%; */
-    }
-
     & h1 div{
         display: inline-block;
         overflow: hidden;
